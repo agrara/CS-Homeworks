@@ -1,0 +1,14 @@
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Speed\bin\Debug\net8.0\Speed.exe
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Speed\bin\Debug\net8.0\Speed.deps.json
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Speed\bin\Debug\net8.0\Speed.runtimeconfig.json
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Speed\bin\Debug\net8.0\Speed.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Speed\bin\Debug\net8.0\Speed.pdb
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Speed\obj\Debug\net8.0\Speed.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Speed\obj\Debug\net8.0\Speed.AssemblyInfoInputs.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Speed\obj\Debug\net8.0\Speed.AssemblyInfo.cs
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Speed\obj\Debug\net8.0\Speed.csproj.CoreCompileInputs.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Speed\obj\Debug\net8.0\Speed.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Speed\obj\Debug\net8.0\refint\Speed.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Speed\obj\Debug\net8.0\Speed.pdb
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Speed\obj\Debug\net8.0\Speed.genruntimeconfig.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Speed\obj\Debug\net8.0\ref\Speed.dll

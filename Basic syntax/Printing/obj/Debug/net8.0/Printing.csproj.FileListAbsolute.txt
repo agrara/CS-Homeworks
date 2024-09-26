@@ -1,0 +1,14 @@
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Printing\bin\Debug\net8.0\Printing.exe
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Printing\bin\Debug\net8.0\Printing.deps.json
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Printing\bin\Debug\net8.0\Printing.runtimeconfig.json
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Printing\bin\Debug\net8.0\Printing.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Printing\bin\Debug\net8.0\Printing.pdb
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Printing\obj\Debug\net8.0\Printing.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Printing\obj\Debug\net8.0\Printing.AssemblyInfoInputs.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Printing\obj\Debug\net8.0\Printing.AssemblyInfo.cs
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Printing\obj\Debug\net8.0\Printing.csproj.CoreCompileInputs.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Printing\obj\Debug\net8.0\Printing.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Printing\obj\Debug\net8.0\refint\Printing.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Printing\obj\Debug\net8.0\Printing.pdb
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Printing\obj\Debug\net8.0\Printing.genruntimeconfig.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Printing\obj\Debug\net8.0\ref\Printing.dll

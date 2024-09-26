@@ -1,0 +1,14 @@
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Painting\bin\Debug\net8.0\Painting.exe
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Painting\bin\Debug\net8.0\Painting.deps.json
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Painting\bin\Debug\net8.0\Painting.runtimeconfig.json
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Painting\bin\Debug\net8.0\Painting.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Painting\bin\Debug\net8.0\Painting.pdb
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Painting\obj\Debug\net8.0\Painting.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Painting\obj\Debug\net8.0\Painting.AssemblyInfoInputs.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Painting\obj\Debug\net8.0\Painting.AssemblyInfo.cs
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Painting\obj\Debug\net8.0\Painting.csproj.CoreCompileInputs.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Painting\obj\Debug\net8.0\Painting.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Painting\obj\Debug\net8.0\refint\Painting.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Painting\obj\Debug\net8.0\Painting.pdb
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Painting\obj\Debug\net8.0\Painting.genruntimeconfig.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Painting\obj\Debug\net8.0\ref\Painting.dll

@@ -1,0 +1,14 @@
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Time\bin\Debug\net8.0\Time.exe
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Time\bin\Debug\net8.0\Time.deps.json
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Time\bin\Debug\net8.0\Time.runtimeconfig.json
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Time\bin\Debug\net8.0\Time.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Time\bin\Debug\net8.0\Time.pdb
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Time\obj\Debug\net8.0\Time.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Time\obj\Debug\net8.0\Time.AssemblyInfoInputs.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Time\obj\Debug\net8.0\Time.AssemblyInfo.cs
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Time\obj\Debug\net8.0\Time.csproj.CoreCompileInputs.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Time\obj\Debug\net8.0\Time.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Time\obj\Debug\net8.0\refint\Time.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Time\obj\Debug\net8.0\Time.pdb
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Time\obj\Debug\net8.0\Time.genruntimeconfig.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Time\obj\Debug\net8.0\ref\Time.dll

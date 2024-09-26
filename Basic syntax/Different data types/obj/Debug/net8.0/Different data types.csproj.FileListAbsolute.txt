@@ -1,0 +1,14 @@
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Different data types\bin\Debug\net8.0\Different data types.exe
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Different data types\bin\Debug\net8.0\Different data types.deps.json
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Different data types\bin\Debug\net8.0\Different data types.runtimeconfig.json
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Different data types\bin\Debug\net8.0\Different data types.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Different data types\bin\Debug\net8.0\Different data types.pdb
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Different data types\obj\Debug\net8.0\Different data types.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Different data types\obj\Debug\net8.0\Different data types.AssemblyInfoInputs.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Different data types\obj\Debug\net8.0\Different data types.AssemblyInfo.cs
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Different data types\obj\Debug\net8.0\Different data types.csproj.CoreCompileInputs.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Different data types\obj\Debug\net8.0\Different data types.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Different data types\obj\Debug\net8.0\refint\Different data types.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Different data types\obj\Debug\net8.0\Different data types.pdb
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Different data types\obj\Debug\net8.0\Different data types.genruntimeconfig.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Different data types\obj\Debug\net8.0\ref\Different data types.dll

@@ -1,0 +1,14 @@
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Kilometers to Miles\bin\Debug\net8.0\Kilometers to Miles.exe
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Kilometers to Miles\bin\Debug\net8.0\Kilometers to Miles.deps.json
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Kilometers to Miles\bin\Debug\net8.0\Kilometers to Miles.runtimeconfig.json
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Kilometers to Miles\bin\Debug\net8.0\Kilometers to Miles.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Kilometers to Miles\bin\Debug\net8.0\Kilometers to Miles.pdb
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Kilometers to Miles\obj\Debug\net8.0\Kilometers to Miles.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Kilometers to Miles\obj\Debug\net8.0\Kilometers to Miles.AssemblyInfoInputs.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Kilometers to Miles\obj\Debug\net8.0\Kilometers to Miles.AssemblyInfo.cs
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Kilometers to Miles\obj\Debug\net8.0\Kilometers to Miles.csproj.CoreCompileInputs.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Kilometers to Miles\obj\Debug\net8.0\Kilometers to Miles.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Kilometers to Miles\obj\Debug\net8.0\refint\Kilometers to Miles.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Kilometers to Miles\obj\Debug\net8.0\Kilometers to Miles.pdb
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Kilometers to Miles\obj\Debug\net8.0\Kilometers to Miles.genruntimeconfig.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Kilometers to Miles\obj\Debug\net8.0\ref\Kilometers to Miles.dll

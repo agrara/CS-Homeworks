@@ -1,0 +1,14 @@
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Read User Input - Name\bin\Debug\net8.0\Read User Input - Name.exe
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Read User Input - Name\bin\Debug\net8.0\Read User Input - Name.deps.json
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Read User Input - Name\bin\Debug\net8.0\Read User Input - Name.runtimeconfig.json
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Read User Input - Name\bin\Debug\net8.0\Read User Input - Name.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Read User Input - Name\bin\Debug\net8.0\Read User Input - Name.pdb
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Read User Input - Name\obj\Debug\net8.0\Read User Input - Name.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Read User Input - Name\obj\Debug\net8.0\Read User Input - Name.AssemblyInfoInputs.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Read User Input - Name\obj\Debug\net8.0\Read User Input - Name.AssemblyInfo.cs
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Read User Input - Name\obj\Debug\net8.0\Read User Input - Name.csproj.CoreCompileInputs.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Read User Input - Name\obj\Debug\net8.0\Read User Input - Name.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Read User Input - Name\obj\Debug\net8.0\refint\Read User Input - Name.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Read User Input - Name\obj\Debug\net8.0\Read User Input - Name.pdb
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Read User Input - Name\obj\Debug\net8.0\Read User Input - Name.genruntimeconfig.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Read User Input - Name\obj\Debug\net8.0\ref\Read User Input - Name.dll

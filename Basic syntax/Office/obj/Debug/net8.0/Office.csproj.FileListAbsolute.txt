@@ -1,0 +1,14 @@
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Office\bin\Debug\net8.0\Office.exe
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Office\bin\Debug\net8.0\Office.deps.json
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Office\bin\Debug\net8.0\Office.runtimeconfig.json
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Office\bin\Debug\net8.0\Office.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Office\bin\Debug\net8.0\Office.pdb
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Office\obj\Debug\net8.0\Office.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Office\obj\Debug\net8.0\Office.AssemblyInfoInputs.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Office\obj\Debug\net8.0\Office.AssemblyInfo.cs
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Office\obj\Debug\net8.0\Office.csproj.CoreCompileInputs.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Office\obj\Debug\net8.0\Office.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Office\obj\Debug\net8.0\refint\Office.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Office\obj\Debug\net8.0\Office.pdb
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Office\obj\Debug\net8.0\Office.genruntimeconfig.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Office\obj\Debug\net8.0\ref\Office.dll

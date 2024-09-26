@@ -1,0 +1,14 @@
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Read different data\bin\Debug\net8.0\Read different data.exe
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Read different data\bin\Debug\net8.0\Read different data.deps.json
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Read different data\bin\Debug\net8.0\Read different data.runtimeconfig.json
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Read different data\bin\Debug\net8.0\Read different data.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Read different data\bin\Debug\net8.0\Read different data.pdb
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Read different data\obj\Debug\net8.0\Read different data.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Read different data\obj\Debug\net8.0\Read different data.AssemblyInfoInputs.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Read different data\obj\Debug\net8.0\Read different data.AssemblyInfo.cs
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Read different data\obj\Debug\net8.0\Read different data.csproj.CoreCompileInputs.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Read different data\obj\Debug\net8.0\Read different data.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Read different data\obj\Debug\net8.0\refint\Read different data.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Read different data\obj\Debug\net8.0\Read different data.pdb
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Read different data\obj\Debug\net8.0\Read different data.genruntimeconfig.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Read different data\obj\Debug\net8.0\ref\Read different data.dll

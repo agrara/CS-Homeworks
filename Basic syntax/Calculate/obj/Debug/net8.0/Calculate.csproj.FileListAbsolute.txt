@@ -1,0 +1,14 @@
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Calculate\bin\Debug\net8.0\Calculate.exe
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Calculate\bin\Debug\net8.0\Calculate.deps.json
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Calculate\bin\Debug\net8.0\Calculate.runtimeconfig.json
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Calculate\bin\Debug\net8.0\Calculate.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Calculate\bin\Debug\net8.0\Calculate.pdb
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Calculate\obj\Debug\net8.0\Calculate.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Calculate\obj\Debug\net8.0\Calculate.AssemblyInfoInputs.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Calculate\obj\Debug\net8.0\Calculate.AssemblyInfo.cs
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Calculate\obj\Debug\net8.0\Calculate.csproj.CoreCompileInputs.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Calculate\obj\Debug\net8.0\Calculate.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Calculate\obj\Debug\net8.0\refint\Calculate.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Calculate\obj\Debug\net8.0\Calculate.pdb
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Calculate\obj\Debug\net8.0\Calculate.genruntimeconfig.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Calculate\obj\Debug\net8.0\ref\Calculate.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Body Mass Index (BMI)/1.0.0": {
+        "runtime": {
+          "Body Mass Index (BMI).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Body Mass Index (BMI)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

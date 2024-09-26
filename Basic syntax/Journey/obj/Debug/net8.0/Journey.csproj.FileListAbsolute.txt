@@ -1,0 +1,14 @@
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Journey\bin\Debug\net8.0\Journey.exe
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Journey\bin\Debug\net8.0\Journey.deps.json
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Journey\bin\Debug\net8.0\Journey.runtimeconfig.json
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Journey\bin\Debug\net8.0\Journey.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Journey\bin\Debug\net8.0\Journey.pdb
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Journey\obj\Debug\net8.0\Journey.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Journey\obj\Debug\net8.0\Journey.AssemblyInfoInputs.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Journey\obj\Debug\net8.0\Journey.AssemblyInfo.cs
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Journey\obj\Debug\net8.0\Journey.csproj.CoreCompileInputs.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Journey\obj\Debug\net8.0\Journey.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Journey\obj\Debug\net8.0\refint\Journey.dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Journey\obj\Debug\net8.0\Journey.pdb
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Journey\obj\Debug\net8.0\Journey.genruntimeconfig.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Journey\obj\Debug\net8.0\ref\Journey.dll

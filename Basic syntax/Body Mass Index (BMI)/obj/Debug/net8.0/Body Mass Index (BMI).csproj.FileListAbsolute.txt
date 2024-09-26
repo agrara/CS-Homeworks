@@ -1,0 +1,14 @@
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Body Mass Index (BMI)\bin\Debug\net8.0\Body Mass Index (BMI).exe
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Body Mass Index (BMI)\bin\Debug\net8.0\Body Mass Index (BMI).deps.json
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Body Mass Index (BMI)\bin\Debug\net8.0\Body Mass Index (BMI).runtimeconfig.json
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Body Mass Index (BMI)\bin\Debug\net8.0\Body Mass Index (BMI).dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Body Mass Index (BMI)\bin\Debug\net8.0\Body Mass Index (BMI).pdb
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Body Mass Index (BMI)\obj\Debug\net8.0\Body Mass Index (BMI).GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Body Mass Index (BMI)\obj\Debug\net8.0\Body Mass Index (BMI).AssemblyInfoInputs.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Body Mass Index (BMI)\obj\Debug\net8.0\Body Mass Index (BMI).AssemblyInfo.cs
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Body Mass Index (BMI)\obj\Debug\net8.0\Body Mass Index (BMI).csproj.CoreCompileInputs.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Body Mass Index (BMI)\obj\Debug\net8.0\Body Mass Index (BMI).dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Body Mass Index (BMI)\obj\Debug\net8.0\refint\Body Mass Index (BMI).dll
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Body Mass Index (BMI)\obj\Debug\net8.0\Body Mass Index (BMI).pdb
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Body Mass Index (BMI)\obj\Debug\net8.0\Body Mass Index (BMI).genruntimeconfig.cache
+F:\Projects\C#\Sirma\Homeworks\Basic syntax\Body Mass Index (BMI)\obj\Debug\net8.0\ref\Body Mass Index (BMI).dll
