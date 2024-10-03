@@ -1,0 +1,15 @@
+F:\Projects\C#\Sirma\CS-Homeworks\Classes\Classes\Articles\obj\Debug\net8.0\Articles.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\C#\Sirma\CS-Homeworks\Classes\Classes\Articles\obj\Debug\net8.0\Articles.AssemblyInfoInputs.cache
+F:\Projects\C#\Sirma\CS-Homeworks\Classes\Classes\Articles\obj\Debug\net8.0\Articles.AssemblyInfo.cs
+F:\Projects\C#\Sirma\CS-Homeworks\Classes\Classes\Articles\obj\Debug\net8.0\Articles.csproj.CoreCompileInputs.cache
+F:\Projects\C#\Sirma\CS-Homeworks\Classes\Classes\Articles\obj\Debug\net8.0\Articles.sourcelink.json
+F:\Projects\C#\Sirma\CS-Homeworks\Classes\Classes\Articles\bin\Debug\net8.0\Articles.exe
+F:\Projects\C#\Sirma\CS-Homeworks\Classes\Classes\Articles\bin\Debug\net8.0\Articles.deps.json
+F:\Projects\C#\Sirma\CS-Homeworks\Classes\Classes\Articles\bin\Debug\net8.0\Articles.runtimeconfig.json
+F:\Projects\C#\Sirma\CS-Homeworks\Classes\Classes\Articles\bin\Debug\net8.0\Articles.dll
+F:\Projects\C#\Sirma\CS-Homeworks\Classes\Classes\Articles\bin\Debug\net8.0\Articles.pdb
+F:\Projects\C#\Sirma\CS-Homeworks\Classes\Classes\Articles\obj\Debug\net8.0\Articles.dll
+F:\Projects\C#\Sirma\CS-Homeworks\Classes\Classes\Articles\obj\Debug\net8.0\refint\Articles.dll
+F:\Projects\C#\Sirma\CS-Homeworks\Classes\Classes\Articles\obj\Debug\net8.0\Articles.pdb
+F:\Projects\C#\Sirma\CS-Homeworks\Classes\Classes\Articles\obj\Debug\net8.0\Articles.genruntimeconfig.cache
+F:\Projects\C#\Sirma\CS-Homeworks\Classes\Classes\Articles\obj\Debug\net8.0\ref\Articles.dll

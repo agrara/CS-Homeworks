@@ -1,0 +1,5 @@
+F:\Projects\C#\Sirma\CS-Homeworks\Arrays\Arrays\obj\Debug\net8.0\Reverse an Array of Numbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\C#\Sirma\CS-Homeworks\Arrays\Arrays\obj\Debug\net8.0\Reverse an Array of Numbers.AssemblyInfoInputs.cache
+F:\Projects\C#\Sirma\CS-Homeworks\Arrays\Arrays\obj\Debug\net8.0\Reverse an Array of Numbers.AssemblyInfo.cs
+F:\Projects\C#\Sirma\CS-Homeworks\Arrays\Arrays\obj\Debug\net8.0\Reverse an Array of Numbers.csproj.CoreCompileInputs.cache
+F:\Projects\C#\Sirma\CS-Homeworks\Arrays\Arrays\obj\Debug\net8.0\Reverse an Array of Numbers.sourcelink.json

@@ -1,0 +1,15 @@
+F:\Projects\C#\Sirma\CS-Homeworks\Arrays\Reverse an Array of Numbers\obj\Debug\net8.0\Reverse an Array of Numbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\C#\Sirma\CS-Homeworks\Arrays\Reverse an Array of Numbers\obj\Debug\net8.0\Reverse an Array of Numbers.AssemblyInfoInputs.cache
+F:\Projects\C#\Sirma\CS-Homeworks\Arrays\Reverse an Array of Numbers\obj\Debug\net8.0\Reverse an Array of Numbers.AssemblyInfo.cs
+F:\Projects\C#\Sirma\CS-Homeworks\Arrays\Reverse an Array of Numbers\obj\Debug\net8.0\Reverse an Array of Numbers.csproj.CoreCompileInputs.cache
+F:\Projects\C#\Sirma\CS-Homeworks\Arrays\Reverse an Array of Numbers\obj\Debug\net8.0\Reverse an Array of Numbers.sourcelink.json
+F:\Projects\C#\Sirma\CS-Homeworks\Arrays\Reverse an Array of Numbers\bin\Debug\net8.0\Reverse an Array of Numbers.exe
+F:\Projects\C#\Sirma\CS-Homeworks\Arrays\Reverse an Array of Numbers\bin\Debug\net8.0\Reverse an Array of Numbers.deps.json
+F:\Projects\C#\Sirma\CS-Homeworks\Arrays\Reverse an Array of Numbers\bin\Debug\net8.0\Reverse an Array of Numbers.runtimeconfig.json
+F:\Projects\C#\Sirma\CS-Homeworks\Arrays\Reverse an Array of Numbers\bin\Debug\net8.0\Reverse an Array of Numbers.dll
+F:\Projects\C#\Sirma\CS-Homeworks\Arrays\Reverse an Array of Numbers\bin\Debug\net8.0\Reverse an Array of Numbers.pdb
+F:\Projects\C#\Sirma\CS-Homeworks\Arrays\Reverse an Array of Numbers\obj\Debug\net8.0\Reverse an Array of Numbers.dll
+F:\Projects\C#\Sirma\CS-Homeworks\Arrays\Reverse an Array of Numbers\obj\Debug\net8.0\refint\Reverse an Array of Numbers.dll
+F:\Projects\C#\Sirma\CS-Homeworks\Arrays\Reverse an Array of Numbers\obj\Debug\net8.0\Reverse an Array of Numbers.pdb
+F:\Projects\C#\Sirma\CS-Homeworks\Arrays\Reverse an Array of Numbers\obj\Debug\net8.0\Reverse an Array of Numbers.genruntimeconfig.cache
+F:\Projects\C#\Sirma\CS-Homeworks\Arrays\Reverse an Array of Numbers\obj\Debug\net8.0\ref\Reverse an Array of Numbers.dll
