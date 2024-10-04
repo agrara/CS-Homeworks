@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Reverse an Array of Numbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+414b4eba60b982dbcdba9222c96871f85b09bfb7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0228ec51d928ae5f40e7bdb40ae741af5c092ecd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Reverse an Array of Numbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Reverse an Array of Numbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
